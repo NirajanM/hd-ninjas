@@ -73,7 +73,7 @@ function App() {
       <div className="App">
         <section id="main-section">
           <div>
-            <h2>Best Sites: <span className='descr'>in descending order</span></h2>
+            <h2>Best Sites: <span className='descr'>in descending order - visit directly in one click</span></h2>
             <ul>
               {
                 linkDetails.map((detail) => {
