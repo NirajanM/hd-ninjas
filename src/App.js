@@ -18,6 +18,11 @@ function App() {
       desc: "search engine that isn't the host but search different live links"
     },
     {
+      url: "http://bit.ly/m/ront",
+      heading: "R.O.N.T",
+      desc: "nepali site that keep updating links"
+    },
+    {
       url: "https://qatarstreams.me/schedule/2022-football-world-cup",
       heading: "qat🅰rstreams",
       desc: "many live links based on games available"
