@@ -93,7 +93,10 @@ function App() {
           </div>
         </section>
       </div>
-      <footer>used emojℹ to  🅰v🅾ℹd  ©-strℹke</footer>
+      <footer>
+        {/* used emojℹ to  🅰v🅾ℹd  ©-strℹke */}
+        Thank me later XD
+      </footer>
     </>
   );
 }
