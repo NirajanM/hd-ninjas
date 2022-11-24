@@ -65,7 +65,7 @@ function App() {
     {
       url: "http://1stream.link/",
       heading: "1stream",
-      desc: "---"
+      desc: "basic stream"
     },
     {
       url: "https://sports.genzaitv.com/2022/11/fifa-world-cup-2022-live-broadcasting.html.html",
